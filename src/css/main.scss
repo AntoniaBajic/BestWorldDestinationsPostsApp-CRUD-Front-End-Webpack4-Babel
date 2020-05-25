@@ -1,0 +1,42 @@
+
+@import "~bootstrap/scss/bootstrap";
+$light-color: rgb(182, 214, 182);
+$background-color: rgb(166, 185, 207);
+$primary-color: pink;
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+   
+}
+
+
+body {
+    font-family: 'Raleway',sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+    background-color: $background-color;
+    color: #333;
+    
+}
+
+.delete {
+    color: red;
+}
+.postsContainer {
+    margin-top: 3.5rem;
+}
+
+.background {
+    background: url('../image/worldDestination.jpg') no-repeat center center/cover;
+
+}
+
+h1,h2 {
+    color: white;
+}
+h3 {
+    color: black;
+}

@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "Tel Aviv, Israel",
+      "body": "The city’s top sights can be found in the neighborhood of Neve Tzedek, where a maze of winding streets house the city's hottest theaters  and museums.",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Hurghada, Egypt",
+      "body": "With turquoise blue waters and powder-soft sand, Egypt's Red Sea coastal resort town of Hurghada should be on your radar if you have been there and done that in Hawaii and the Caribbean. "
+    },
+    {
+      "id": 3,
+      "title": "Lisbon, Portugal",
+      "body": "One of the hottest up-and-comers in tourism is Lisbon, the capital city of Portugal. Situated on a beautiful river with plenty of sunshine, palm trees, delicious food and attractions. "
+    }
+  ]
+}
