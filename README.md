@@ -12,7 +12,7 @@ npm install
 npm run build
 ```
 
-### Serve on localhost:9000:
+### Serve on localhost: 9000:
 ```
 npm start
 ```
